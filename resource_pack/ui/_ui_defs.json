@@ -1,0 +1,15 @@
+{
+  "ui_defs": [
+    "ui/r4isen1920/invsee/inventory.r4ui",
+    "ui/chest_server_form.json",
+    "ui/starlib2/global.jsonc",
+    "ui/starlib2/style.jsonc",
+    "ui/starlib2/package_screen/screen_template.jsonc",
+    "ui/starlib2/package_screen/screen_common.jsonc",
+    "ui/server_form.json",
+    "ui/gb_form1.json",
+    "ui/gb_form2.json",
+    "ui/chat_screen.json",
+    "ui/hud_screen.json"
+  ]
+}

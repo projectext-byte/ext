@@ -1,0 +1,58 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "EXTREMESMP Behavior Pack",
+    "description": "EXTREMESMP roleplay economy and server systems",
+    "uuid": "2b16b6b1-cc2a-42de-9d07-7a3ac0d1a1b1",
+    "min_engine_version": [
+      1,
+      21,
+      90
+    ],
+    "version": [
+      1,
+      0,
+      42
+    ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "7a4eac8d-0d65-4a1f-8b35-6fe4f5230d2c",
+      "version": [
+        1,
+        0,
+        42
+      ]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "4f824e85-1aa3-46cb-b4d3-9029d8e2b6d0",
+      "entry": "scripts/r4isen1920/invsee/main.js",
+      "version": [
+        1,
+        0,
+        42
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "96d5c92b-1a4e-45ef-8af0-8457c59f1c48",
+      "version": [
+        1,
+        0,
+        42
+      ]
+    },
+    {
+      "module_name": "@minecraft/server",
+      "version": "beta"
+    },
+    {
+      "module_name": "@minecraft/server-ui",
+      "version": "beta"
+    }
+  ]
+}

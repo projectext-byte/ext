@@ -1,0 +1,4 @@
+# Distribution and texture binaries are delivered outside this source-only repository.
+*.zip
+*.mcpack
+*.png
