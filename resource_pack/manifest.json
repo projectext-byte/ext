@@ -1,0 +1,93 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "EXTREMESMP roleplay interface and green balance HUD",
+    "name": "EXTREMESMP Resource Pack",
+    "uuid": "96d5c92b-1a4e-45ef-8af0-8457c59f1c48",
+    "pack_scope": "world",
+    "version": [
+      1,
+      0,
+      42
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      90
+    ]
+  },
+  "modules": [
+    {
+      "description": "EXTREMESMP client assets",
+      "type": "resources",
+      "uuid": "c2f4e2df-b729-40dc-a07d-28e1cf5a6a89",
+      "version": [
+        1,
+        0,
+        42
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "2b16b6b1-cc2a-42de-9d07-7a3ac0d1a1b1",
+      "version": [
+        1,
+        0,
+        42
+      ]
+    }
+  ],
+  "subpacks": [
+    {
+      "folder_name": "aqua",
+      "name": "Background Aqua",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "blue",
+      "name": "Background Blue",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "orange",
+      "name": "Background Orange",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "pink",
+      "name": "Background Pink",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "purple",
+      "name": "Background Purple",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "red",
+      "name": "Background Red",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "white",
+      "name": "Background White",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "yellow",
+      "name": "Background Yellow",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "green",
+      "name": "Background Green",
+      "memory_tier": 0
+    },
+    {
+      "folder_name": "black",
+      "name": "Background Black",
+      "memory_tier": 0
+    }
+  ]
+}

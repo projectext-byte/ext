@@ -1,0 +1,11 @@
+EXTREMESMP Visuals 1.4.0 — source attribution
+
+Mojang Bedrock Samples
+The item textures under textures/ui/market_items/ and the item metadata used to select them were derived from the public Mojang Bedrock Samples repository:
+https://github.com/mojang/bedrock-samples
+https://github.com/Mojang/bedrock-samples/blob/main/LICENSE.md
+
+The repository license notice states that the files are copyright Mojang AB and are subject to the Minecraft End User License Agreement. These sample assets are included only as Bedrock item-reference visuals for the in-game market and are not presented as EXTREMESMP-owned artwork.
+
+EXTREMESMP-specific artwork
+The logo, Quick Menu panels, market panels, loot-box icons, rank artwork, and UI assets not sourced from the Mojang sample repository were created or arranged for EXTREMESMP. EXTREMESMP is an independent community server/add-on and is not an official Minecraft product or affiliated with Mojang or Microsoft.

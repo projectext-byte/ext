@@ -1,0 +1,26 @@
+{
+  "format_version": "1.21.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "extremesmp:respawn_config",
+      "menu_category": {
+        "category": "items"
+      }
+    },
+    "components": {
+      "minecraft:hand_equipped": false,
+      "minecraft:max_stack_size": 1,
+      "minecraft:foil": true,
+      "minecraft:allow_off_hand": false,
+      "minecraft:can_destroy_in_creative": false,
+      "minecraft:icon": "book_normal",
+      "minecraft:display_name": {
+        "value": "EXTREMESMP Respawn Config"
+      },
+      "minecraft:cooldown": {
+        "category": "extremesmp_respawn_config",
+        "duration": 1
+      }
+    }
+  }
+}
