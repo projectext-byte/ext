@@ -1,0 +1,11 @@
+# Generated distributables and binary Minecraft assets are intentionally not versioned.
+*.zip
+*.mcpack
+*.png
+*.jpg
+*.jpeg
+*.webp
+*.gif
+
+# Local extraction/build folders.
+.work/

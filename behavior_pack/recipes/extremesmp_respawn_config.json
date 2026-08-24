@@ -1,0 +1,29 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "extremesmp:respawn_config"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "AB",
+      "B "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:bed",
+        "data": 1
+      },
+      "B": {
+        "item": "minecraft:book",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "extremesmp:respawn_config",
+      "count": 1
+    }
+  }
+}
